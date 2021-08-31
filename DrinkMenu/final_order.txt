@@ -1,0 +1,3 @@
+Drink id = 51 Name = dačo Price = 4.9 E 799 dcl, flavour jahodkova, amount=20
+Drink@7e6cbb7a, amount=10
+Total price 137.0
